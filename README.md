@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # OOP-school-library
-> This program implements the all?, any?, and filter methods that have the same funcionality as methods in Ruby Enumerable module.
+> In this project, I will start building my school library app. In this initial step, I will implement the classes to represent students and teachers..
 
 
 ## Built With
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-- Run the command `list_enumerable.rb`.
+- Run the command ``.
 
 
 ## Authors
