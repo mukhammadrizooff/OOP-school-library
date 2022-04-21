@@ -4,5 +4,5 @@ class Nameable
   end
 end
 
-name = Nameable.new
-name.correct_name
+# name = Nameable.new
+# name.correct_name
