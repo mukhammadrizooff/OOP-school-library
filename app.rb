@@ -2,6 +2,7 @@ require_relative './student'
 require_relative './teacher'
 require_relative './rental'
 require_relative './book'
+require 'pry'
 
 class App
   def initialize
@@ -105,6 +106,7 @@ class App
     student = Student.new(@id, age, nil, name, parent_permission: permission)
     @people << student
     puts 'Person created successfully'
+    binding.pry
   end
 
   def create_teacher
