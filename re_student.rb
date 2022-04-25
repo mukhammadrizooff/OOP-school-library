@@ -21,7 +21,7 @@ module ReStudent
     puts 'Person created successfully'
   end
 
-  #create a rental
+  # create a rental
 
   def create_rental
     puts 'Select a book from the following list by number'
@@ -37,4 +37,3 @@ module ReStudent
     puts 'Rental created successfully'
   end
 end
-
