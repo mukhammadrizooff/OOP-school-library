@@ -1,5 +1,5 @@
 module ListMethods
-   def list_all_people
+  def list_all_people
     @people.each_with_index do |person, index|
       puts "#{index}) [#{person.class.name}] Name: #{person.name}, ID: #{person.id}, Age: #{person.age}"
     end
