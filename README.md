@@ -35,6 +35,18 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@Muhammadrizooff](https://twitter.com/Muhammadrizooff)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mukhammadrizooff/)
 
+👤 **Dennis Akagha**
+
+- GitHub: [@denscholar](https://github.com/denscholar)
+- Twitter: [@denscholar](https://twitter.com/dennisakagha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennisakagha/)
+  
+👤 **Daniel Ufeli**
+
+- GitHub: [@danielufeli](https://github.com/danielufeli)
+- Twitter: [@danielufeli](https://twitter.com/danielufeli)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/danielcode)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
